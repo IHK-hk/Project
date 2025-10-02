@@ -6,6 +6,5 @@ This project demonstrates the use of natural language processing (NLP) technique
 
 Features:
 Translate text from English → French
-Simple and clean user interface (CLI or Web, depending on implementation)
 Option to translate single words and phrases.
 Lightweight and easy to set up
